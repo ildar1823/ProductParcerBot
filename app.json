@@ -1,0 +1,13 @@
+{
+  "name": "Telegram Parser Bot",
+  "description": "Парсер товаров с Telegram ботом",
+  "repository": "https://github.com/ваш-логин/telegram-parser-bot",
+  "logo": "https://img.icons8.com/color/96/000000/telegram-app.png",
+  "keywords": ["python", "telegram", "bot", "parser"],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
